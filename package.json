@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Yongjun-Han/portfolio/issues"
   },
-  "homepage": "https://github.com/Yongjun-Han/portfolio#readme"
+  "homepage": "https://github.com/Yongjun-Han/portfolio#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.2",
+    "@babel/node": "^7.20.2",
+    "@babel/preset-env": "^7.20.2"
+  }
 }
